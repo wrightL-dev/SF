@@ -29,7 +29,6 @@ Before running this project, make sure you have installed:
 
     ```plaintext
     npm install ethers dotenv
-
 3. **Create a .env file and add the following configuration:**
 
     ```plaintext
@@ -43,12 +42,10 @@ Before running this project, make sure you have installed:
 
    # Private key
    PRIVATE_KEY="YOUR-PRIVATE-KEY"
- 
 4. **Run the script:**
 
    ```plaintext
    node main.js
-
 ## Support
 
 If you have any questions or need further assistance, feel free to join our Telegram channel at [t.me/tahuri01](https://t.me/tahuri01).
