@@ -21,16 +21,14 @@ Before running this project, make sure you have installed:
 
 1. **Clone this repository:**
 
-    ```bash
+    ```plaintext
     git clone https://github.com/wrightL-dev/SF
     cd SF
-    ```
 
 2. **Install the required packages:**
 
-    ```bash
+    ```plaintext
     npm install ethers dotenv
-    ```
 
 3. **Create a .env file and add the following configuration:**
 
